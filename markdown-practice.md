@@ -1,6 +1,6 @@
 ##  My Learning Goals
 ### This semester
-I want to learn **Github**,_Markdown_,`<h1>susan</h1>`
+I want to learn **Github**,_Markdown_,`<h1>Git</h1>`
 ## Links
 [My Github Profile](https://github.com/sueodi)
 [Git Fundermentals](https://docs.github.com/en/get-started/start-your-journey/git-and-github-learning-resources)
@@ -30,4 +30,4 @@ I want to learn **Github**,_Markdown_,`<h1>susan</h1>`
    print("Hello, world!")
    ```   
  ## Blockquote
-> Testing with Suzie
+> Deep Learning subsets of machine learning
