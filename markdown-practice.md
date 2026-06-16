@@ -9,7 +9,7 @@ I want to learn **Github**,_Markdown_,`<h1>Git</h1>`
 - GitHub
 - Markdown
 ## Steps to make a git Commit
-1. create or a file 
+1. create  a file 
 2. edit file
 3. commit changes
 ## Learning Tools
